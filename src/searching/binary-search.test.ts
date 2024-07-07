@@ -1,4 +1,4 @@
-import binarySearch from "../../searching/binary-search";
+import binarySearch from "./binary-search";
 
 describe("the binary search method shoukd", () => {
   it("return false if the arr is empty", () => {

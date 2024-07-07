@@ -1,4 +1,4 @@
-import bubbleSort from "../../sorting/bubble-sort";
+import bubbleSort from "./bubble-sort";
 
 test("bubble-sort", () => {
   const arr = [9, 3, 7, 4, 69, 420, 42];
